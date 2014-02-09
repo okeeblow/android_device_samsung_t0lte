@@ -21,4 +21,7 @@
 
     <!-- Home button wake support -->
     <bool name="config_show_homeWake">true</bool>
+
+    <!-- Enable remapping of hardware keys -->
+    <bool name="config_has_hardware_buttons">true</bool>
 </resources>
