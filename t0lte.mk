@@ -21,7 +21,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/fstab.smdk4x12:root/fstab.smdk4x12 \
     $(LOCAL_PATH)/rootdir/init.target.rc:root/init.target.rc \
     $(LOCAL_PATH)/rootdir/lpm.rc:root/lpm.rc \
-    $(LOCAL_PATH)/rootdir/system/etc/media_mixer.xml:root/system/etc/media_mixer.xml \
+    $(LOCAL_PATH)/rootdir/system/etc/mixer_paths.xml:root/system/etc/mixer_paths.xml \
     $(LOCAL_PATH)/rootdir/ueventd.smdk4x12.rc:root/ueventd.smdk4x12.rc
 
 PRODUCT_COPY_FILES += \
